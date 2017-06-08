@@ -10,7 +10,7 @@
   $BGS  = vsprintf('#%02x%02x%02x', $BG);
   $FGS  = vsprintf('#%02x%02x%02x', $FG);
 ?>
-<head>
+<head><!--test-->
   <meta http-equiv="refresh" content="5;URL=./">
   <title><?php echo $INFO[0];?></title>
   <style>
